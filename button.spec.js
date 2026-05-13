@@ -43,3 +43,10 @@ await page.goto('https://letcode.in/button')
   await page.waitForTimeout(2000);   // hold 2 sec
   await page.mouse.up(); 
 })
+
+
+//rubini
+//rubini
+//rubini
+//rubini
+//rubini
